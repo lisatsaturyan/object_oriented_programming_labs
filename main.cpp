@@ -1,5 +1,7 @@
 /*
-s1.Given a sequence of n numbers, and k queries indicating which elements of the sequence must be removed, what will the sequence look like when these requests are fulfilled? Note that after each query the sequence is shortened and the position of some elements changes.
+s1.Given a sequence of n numbers, and k queries indicating which elements of the sequence must be removed,
+what will the sequence look like when these requests are fulfilled? Note that after each query the sequence
+is shortened and the position of some elements changes.
 
 
  #include <iostream>
